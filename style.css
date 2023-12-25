@@ -31,14 +31,13 @@ body {
   }
   
   .describe {
-    height: 600px;
+    height: 400px;
     width: auto;
     background-color: white;
     color: black;
     padding: 10px;
     margin: 5px;
     border-radius: 10px;
-    justify-content: center;
     text-align: center;
   }
   
