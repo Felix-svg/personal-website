@@ -1,0 +1,112 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+  }
+  
+  .intro{
+    display: grid;
+  }
+  
+  .aboutme{
+    text-align: center;
+    background-color: rgb(37, 81, 107);
+    color: white;
+  }
+  
+  ul{
+    list-style: none;
+  }
+  
+  header{
+    text-align: center;
+  }
+  
+  .proj {
+    display: flex;
+  }
+  
+  h2{
+    text-align: center;
+  }
+  
+  .describe {
+    height: 600px;
+    width: auto;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  #grade{
+    background-image: url('https://img.freepik.com/free-vector/grades-concept-illustration_114360-697.jpg?w=740&t=st=1703441255~exp=1703441855~hmac=4a657b64979bd825c9a3ae4297aba0f447e1bcb0201e5686bdb606b56ddb0f31');
+  }
+  
+  #speed{
+  background-image: url('https://img.freepik.com/free-vector/banner-speed-motion-background-with-fast-speedometer-car-racing-velocity-background_60438-2069.jpg?size=626&ext=jpg');
+  color: white;
+  }
+  
+  #salary{
+  background-image: url('https://img.freepik.com/premium-vector/brown-leather-wallet-with-lots-money_68708-304.jpg?size=626&ext=jpg');
+  }
+  
+  .contact{
+  text-align: center;
+  font-weight: 900;
+  font-size: 18px;
+  }
+  
+  .em{
+    color: rgb(26, 88, 146);
+  }
+  
+  /* button{
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: 5px white;
+  } */
+  
+  .hub{
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .tweet{
+    border-radius: 4px;
+    margin-right: 4px;
+  }
+  
+  .git{
+    background-color: white;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .razz{
+    border-radius: 4px;
+    background-color: gold;
+    border: 1px solid white;
+  }
+  
+  hr .new1{
+    border-top: 1px solid red;
+  }
+  
+  footer p {
+    background-color: grey;
+    text-align: center;
+    background-color: rgba(10, 10, 70, 0.644);
+    text-decoration: none;
+    padding: 10px 15px;
+  }
+  
+  
