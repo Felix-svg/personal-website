@@ -53,6 +53,12 @@ body {
   #salary{
   background-image: url('https://img.freepik.com/premium-vector/brown-leather-wallet-with-lots-money_68708-304.jpg?size=626&ext=jpg');
   }
+
+  img{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+  }
   
   .contact{
   text-align: center;
